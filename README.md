@@ -37,7 +37,7 @@ Fetal heart rate monitoring through phonocardiograms enables a non-invasive asse
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/AnonPaperSub27/FPCG-Residual-1D-CNN.git
    ```
 2. Follow the data preparation instructions in `data/README.md`
 3. Follow the variables and parameters intructions in `notebooks/README.md`
